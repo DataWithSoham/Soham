@@ -16,7 +16,7 @@ Currently, I work with SQL, Excel, Power BI, and have a basic understanding of T
 
 My Certifications 📜🎓
 
-Data Analyst Internship Certificate - https://drive.google.com/file/d/15i-An7P4mKvNwa-n2zr-lnLf7M7eOlgE/view?usp=sharing - AiVariant (Jun 2025 – Dec 2025)
+Data Analyst Internship Certificate - https://drive.google.com/file/d/15i-An7P4mKvNwa-n2zr-lnLf7M7eOlgE/view?usp=sharing - AiVariant (May 2025 – Feb 2026)
 
 Certificate Program in Data Analyst - https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/Soham%2BB%2BIndore_152576389.pdf.pdf - by NASSCOM, FutureSkills Prime (Ministry of Electronics & IT, Govt. of India)
 
